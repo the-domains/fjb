@@ -1,7 +1,7 @@
 name: FJB
 favicon: null
-layout_spectrum: 0.6208143585827202
-typography_spectrum: 0.13596983649767935
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.493628968950361
-  lightness: 0.9895331570878625
-  saturation: 0.8644597972743213
-  rhythmicContrast: 0.48362448369152844
+    - '#f1f1f1'
+    - '#000000'
+    - '#acaaab'
+    - '#5e5955'
+    - '#34333a'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
